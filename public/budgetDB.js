@@ -1,8 +1,6 @@
 let db;
-//TODO: Increment budget each time???
-let budgetVersion;
 
-const request = indexedDB.open("BudgetDB", budgetVersion || 2);
+const request = indexedDB.open("BudgetDB", 2);
 
 request.onupgradeneeded = function (e) {
     db = e.target.result;
