@@ -25,7 +25,7 @@ Internet isn't always reliable and sometimes you need to use applications while 
 
 ### Application Homepage
 <br>
-<img src="./public/assets/images/landing-page.png" width="100%">
+<img src="./public/assets/images/homepage.png" width="100%">
 <hr>
 
 ## Installation: 
